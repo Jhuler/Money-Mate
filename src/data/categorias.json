@@ -1,0 +1,18 @@
+[
+    {"nombre":"Salario", "tipo":1},
+    {"nombre":"Premio", "tipo":1},
+    {"nombre":"Otro ingreso", "tipo":1},
+    {"nombre":"Alimento", "tipo":2},
+    {"nombre":"Cuidado personal", "tipo":2},
+    {"nombre":"Deporte", "tipo":2},
+    {"nombre":"Donación", "tipo":2},
+    {"nombre":"Educación", "tipo":2},
+    {"nombre":"Hogar", "tipo":2},
+    {"nombre":"Impuesto", "tipo":2},
+    {"nombre":"Mobilidad", "tipo":2},
+    {"nombre":"Regalo", "tipo":2},
+    {"nombre":"Salud", "tipo":2},
+    {"nombre":"Servicio", "tipo":2},
+    {"nombre":"Vestimenta", "tipo":2},
+    {"nombre":"Otro egreso", "tipo":2}
+]
